@@ -1,6 +1,8 @@
 # wargame
 
-Simple card game, first IOS app I created!
+Simple card game, gives a point to the player with the higher card!
+
+first IOS app I created
 
 
 
